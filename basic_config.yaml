@@ -1,7 +1,7 @@
 log_verbose: true
 enable_rag: true
 mode: auto
-KB_ROOT_PATH: VulnBot-main/data/knowledge_base
+KB_ROOT_PATH: ./data/knowledge_base
 http_default_timeout: 300
 kali:
   hostname: 127.0.0.1
